@@ -18,7 +18,7 @@ There are two main parts in the solution.
 5) Combine masks centers' and cells centers' to define the colour of each cell
 
 #### Detection of the center of the cells
-<img src="images/cell_centers.png" alt="drawing" width="700" height ="400"/>
+<img src="images/cell_centers.png" alt="drawing" width="700" height ="300"/>
 
 #### Colour masks
 <img src="images/masks.png" alt="drawing" width="700" height ="400"/>
@@ -38,7 +38,7 @@ There are two main parts in the solution.
 
 
 #### Detection of the letter contours
-<img src="images/letter_contours.png" alt="drawing" width="700" height ="400"/>
+<img src="images/letters_detection.png" alt="drawing" width="700" height ="400"/>
 
 
 #### Initial picture and the proposed prediction
