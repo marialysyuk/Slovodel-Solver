@@ -22,7 +22,7 @@ There are two main parts in the solution.
 
 
 1) Warp the picture
-2) Detect letters contours' with OpenCV function [minAreaRect] (https://theailearner.com/tag/cv2-minarearect/)
+2) Detect letters contours' with OpenCV function [minAreaRect](https://theailearner.com/tag/cv2-minarearect/)
 3) Predict letters with the pretrained [Cyrillic Alphabet Classifier](https://github.com/jlouisle/Machine-Learning-Cyrillic-classifier)
 4) Combine cell centers with the predicted letters to understand at what cell of the board you're situated
 5) Iterate over the horizontal and vertical rows to detect the whole word
