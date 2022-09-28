@@ -37,7 +37,7 @@ There are two main parts in the solution.
 6) Intersect colour grid and letters grid to predict the final score 
 
 
-#### Detection of the letter contours
+#### Detection of the letter contours (at the first picture some letters are groupped into the one blue rectangle, in the second picture this bug is fixed)
 <img src="images/letters_detection.png" alt="drawing" width="700" height ="400"/>
 
 
