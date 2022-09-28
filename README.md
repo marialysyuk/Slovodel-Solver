@@ -17,7 +17,13 @@ There are two main parts in the solution.
 4) Define masks and center of contours
 5) Combine masks centers' and cells centers' to define the colour of each cell
 
+#### Detection of the center of the cells
+<img src="images/cell_centers.png" alt="drawing" width="700" height ="400"/>
+
+#### Colour masks
 <img src="images/masks.png" alt="drawing" width="700" height ="400"/>
+
+
 
 
 #### Second part: letter detection
@@ -29,3 +35,11 @@ There are two main parts in the solution.
 4) Combine cell centers with the predicted letters to understand at what cell of the board you're situated
 5) Iterate over the horizontal and vertical rows to detect the whole word
 6) Intersect colour grid and letters grid to predict the final score 
+
+
+#### Detection of the letter contours
+<img src="images/letter_contours.png" alt="drawing" width="700" height ="400"/>
+
+
+#### Initial picture and the proposed prediction
+<img src="images/prediction.png" alt="drawing" width="700" height ="400"/>
