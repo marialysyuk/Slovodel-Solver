@@ -17,6 +17,7 @@ There are two main parts in the solution.
 4) Define masks and center of contours
 5) Combine masks centers' and cells centers' to define the colour of each cell
 
+![masks](images/masks.png)
 
 #### Second part: letter detection
 
