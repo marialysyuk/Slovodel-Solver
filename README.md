@@ -17,7 +17,7 @@ There are two main parts in the solution.
 4) Define masks and center of contours
 5) Combine masks centers' and cells centers' to define the colour of each cell
 
-<img src="images/masks.png" alt="drawing" width="1000"/>
+<img src="images/masks.png" alt="drawing" width="700" height ="400"/>
 
 
 #### Second part: letter detection
