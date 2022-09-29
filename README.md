@@ -3,7 +3,7 @@
 
 ### Overview
 
-Slovodel  is a Russian version of the well-known [Scrabble](https://en.wikipedia.org/wiki/Scrabble) game. In brief, the rules are as follows. Each participant has 7 letters during his turn, his goal is to get as many points as possible. Rare letters give more points, intersection with the coloured cells give extra points - with the green ones points for the letter are doubled, with the yellow ones points for the letter are tripled, with the blue ones points for the word are doubled, with the red ones points for the word are tripled.
+Slovodel  is a Russian version of the well-known [Scrabble](https://en.wikipedia.org/wiki/Scrabble) game. In brief, the rules are as follows. Each participant has 7 letters during his turn, his goal is to make up a word that would give as many points as possible. Rare letters give more points, intersection with the coloured cells give extra points - with the green ones points for the letter are doubled, with the yellow ones points for the letter are tripled, with the blue ones points for the word are doubled, with the red ones points for the word are tripled.
 
 This repository presents the module which automatically recognizes letters, their position on the board and the colour of the cells where the words are situated. All these steps can be combined to calculate the final score of the proposed word automatically. 
 
